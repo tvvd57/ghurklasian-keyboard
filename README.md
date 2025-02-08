@@ -1,1 +1,1 @@
-# ghurklasian-keyboard
+# Ghurklasian keyboard support for Windows
