@@ -11,7 +11,7 @@ This project was made using the *Microsoft Windows Layout Creator (MSKLC)*. It i
 ## Download instructions
 
 - First, use the ``Code`` button to download the file as a ZIP
-- Extract everything and launch ``setup.exe``
+- Extract everything and launch ``setup.exe`` (**the file might be flagged by windows defender, as we do not own a code signing certificate**)
 
 ![layout](files-for-github/download-intruction.png)
 
